@@ -8,7 +8,7 @@
 
 -----------------------------
 
-
+```js
 window.petlog = '';
 function loadJquery(cb) {
   if (!window.$ ||!window.jQuery) {
@@ -74,3 +74,4 @@ function _checkPetSaleAdress(petId, page) {
 
   })
 }
+```
